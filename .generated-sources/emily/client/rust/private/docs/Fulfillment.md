@@ -14,3 +14,5 @@ Name | Type | Description | Notes
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 
 
+
+<!-- Auto-update: 2025-10-06T09:04:43.186068 -->
